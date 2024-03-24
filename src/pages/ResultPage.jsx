@@ -45,8 +45,8 @@ const ResultPage = ({number}) => {
                 <th className="border border-black px-4 bg-customBlue font-medium text-white text-sm py-1">Course Code</th>
                 <th className="border border-black px-4 bg-customBlue font-medium text-white text-sm py-1">Course Name</th>
                 <th className="border border-black px-4 bg-customBlue font-medium text-white text-sm py-1">Grade</th>
-                <th className="border border-black px-4 bg-customBlue font-medium text-white text-sm py-1">Status</th>
                 <th className="border border-black px-4 bg-customBlue font-medium text-white text-sm py-1">Credits</th>
+                <th className="border border-black px-4 bg-customBlue font-medium text-white text-sm py-1">Status</th>
               </tr>
             </thead>
             <tbody>
